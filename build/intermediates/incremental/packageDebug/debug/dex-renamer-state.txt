@@ -1,0 +1,4 @@
+#Thu Jan 24 20:36:45 CET 2019
+base.0=/Users/MG/Desktop/android-fundamentals-starter-apps-master/PhoneNumberSpinnerEspresso/app/build/intermediates/transforms/dexMerger/debug/18
+path.0=classes.dex
+renamed.0=classes.dex
